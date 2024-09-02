@@ -38,7 +38,7 @@ The app has a dark mode toggle in the Navbar component, but the preference does 
 
 2. Create a file called `useDarkMode.js`.
 
-3. Build a hook that ONLY setups a boolean state value. This value governs if dark mode is on or off.
+3. Build a hook that ONLY sets up a boolean state value. This value governs if dark mode is on or off.
 
 4. Return the slice of state created and the state modification function.
 
